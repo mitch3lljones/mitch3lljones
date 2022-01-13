@@ -1,6 +1,6 @@
 <p>
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-gv2qrb7qq-mitch3lljones.vercel.app/api?username=mitch3lljones" alt="mitch3lljones&#39;s GitHub stats"></a></p>
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-gv2qrb7qq-mitch3lljones.vercel.app/api/top-langs/?username=mitch3lljones&amp;hide=Jupyter" alt="Top Langs"></a></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-gv2qrb7qq-mitch3lljones.vercel.app/api/top-langs/?username=mitch3lljones" alt="Top Langs"></a></p>
 </p>
 
 <p>
