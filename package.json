@@ -1,0 +1,22 @@
+{
+  "name": "mitch3lljones",
+  "version": "1.0.0",
+  "description": "Package to update GitHub README",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitch3lljones/mitch3lljones.git"
+  },
+  "author": "mitch3lljones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitch3lljones/mitch3lljones/issues"
+  },
+  "homepage": "https://github.com/mitch3lljones/mitch3lljones#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
