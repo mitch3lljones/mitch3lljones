@@ -10,6 +10,6 @@ TWITTER=[@mitch3lljones](https://twitter.com/mitch3lljones)
 LINKEDIN=[Mitchell Jones](https://www.linkedin.com/in/mitch3lljones/)
 HN= (HACKER NEWS)
 
-[![mitch3lljones's github stats](https://github-readme-stats.vercel.app/api?username=mitch3lljones&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![mitch3lljones's github stats](https://github-readme-stats.vercel.app/api?username=mitch3lljones&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitch3lljones)](https://github.com/anuraghazra/github-readme-stats)
