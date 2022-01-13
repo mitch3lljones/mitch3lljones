@@ -1,4 +1,7 @@
 <p>
+[![mitch3lljones's GitHub stats](https://github-readme-stats-gv2qrb7qq-mitch3lljones.vercel.app/api?username=mitch3lljones)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-gv2qrb7qq-mitch3lljones.vercel.app/api/top-langs/?username=mitch3lljones&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
+<p>
     <a href="https://github.com/mitch3lljones" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
     <a href="https://twitter.com/mitch3lljones" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
     <a href="https://www.linkedin.com/in/mitch3lljones/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
