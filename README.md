@@ -4,5 +4,5 @@
     <a href="https://www.linkedin.com/in/mitch3lljones/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 13 February, 06:29 GMT-6<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 13 February, 19:06 GMT-6<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/mitch3lljones/mitch3lljones/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/mitch3lljones/mitch3lljones?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/mitch3lljones/mitch3lljones?style=flat-square&labelColor=343b41"/></p>
